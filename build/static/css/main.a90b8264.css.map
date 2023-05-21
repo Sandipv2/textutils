@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.a90b8264.css","mappings":"AAAA,wBACI,GACI,+BAAyB,CAAzB,uBACJ,CACJ,CAJA,gBACI,GACI,+BAAyB,CAAzB,uBACJ,CACJ","sources":["Components/style.css"],"sourcesContent":["@keyframes spin {\r\n    to{\r\n        transform: rotate(360deg);\r\n    }\r\n}"],"names":[],"sourceRoot":""}
